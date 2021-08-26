@@ -22,12 +22,12 @@ This question shouldn't really be asked as well, you knew what you should do. Re
 If a rule-breaker is spotted, warn them in either the channel they are talking in or #mod-commands if it's in a VC. 
 If there is someone that is breaking Discord TOS, immediately mute them for an unspecified amount of time, as well as a reason.
 
-To find a User's ID, enable Developer Options in the Discord client. Then right click their user (not their message/s) and Copy ID. The Copy ID user works better in cases like in #mod-commands, as it's basically copy-paste.
+To find a User's ID, enable Developer Options in the Discord client. Then right click their user (not their message/s) and Copy ID. The Copy ID user works better in cases like in #mod-commands, as it's basically copy-paste. However, you must put <@ at the start and > at the end of the user ID.
 
-To warn, use Dyno's ?warn feature (as /warn doesn't work with Dyno right now), followed by the username#tag (or @[userid]) and then a reason. An example command would be: 
+To warn, use Dyno's ?warn feature (as /warn doesn't work with Dyno right now), followed by the username#tag (or <@[userid]>) and then a reason. An example command would be: 
 
 > ?warn @ARTCvan#1234 Broke rule 4.
 
-To mute, use Dyno's ?mute feature (as again, there is no /mute with Dyno right now), followed by the username#tag (or @[theiruserid]), **OPTIONAL** an amount of time, then a reason. An example command would be: 
+To mute, use Dyno's ?mute feature (as again, there is no /mute with Dyno right now), followed by the username#tag (or <@[theiruserid]>), **OPTIONAL** an amount of time, then a reason. An example command would be: 
 
 > ?mute @ARTCvan#1234 1h Repeatedly broke rules.
