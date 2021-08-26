@@ -13,7 +13,7 @@ Here is a table with what you should do in scenarios involving tickets.
 
 | Scenario | What you should do |
 | ----------- | ----------- |
-| Placeholder | Title |
+| Someone asks for personal help | Try to assist them if possible, otherwise direct them to helplines. |
 | Placeholder | Text |
 
 ## How do you moderate?
@@ -26,8 +26,8 @@ To find a User's ID, enable Developer Options in the Discord client. Then right 
 
 To warn, use Dyno's ?warn feature (as /warn doesn't work with Dyno right now), followed by the username#tag (or @[userid]) and then a reason. An example command would be: 
 
-?warn @ARTCvan#1234 Broke rule 4.
+> ?warn @ARTCvan#1234 Broke rule 4.
 
 To mute, use Dyno's ?mute feature (as again, there is no /mute with Dyno right now), followed by the username#tag (or @[theiruserid]), **OPTIONAL** an amount of time, then a reason. An example command would be: 
 
-?mute @ARTCvan#1234 1h Repeatedly broke rules.
+> ?mute @ARTCvan#1234 1h Repeatedly broke rules.
