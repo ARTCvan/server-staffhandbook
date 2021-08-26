@@ -15,10 +15,11 @@ Here is a table with what you should do in scenarios involving tickets.
 | ----------- | ----------- |
 | Someone asks for personal help | Try to assist them if possible, otherwise direct them to helplines. |
 | Someone reports a rule-breaker | Ask for reasoning/evidence, then follow steps below. |
-| Someone reports a broken bot | Determine if the bot is important (eg. Dyno), then post in announcements (if admin) |
+| Someone reports a broken/offline bot | Determine if the bot is important, then post in announcements (if admin). |
+| A feature of the server breaks | Post a message in the channel/announcements to say that feature is unavaliable. |
 
 ## How do you moderate?
-This question shouldn't really be asked as well, you knew what you should do. Regardless, here's what you should do in emergency cases.
+This question shouldn't really be asked as, well, you probably know what you should do. Regardless, here's what you should do in emergency cases.
 
 If a rule-breaker is spotted, warn them in either the channel they are talking in or #mod-commands if it's in a VC. 
 If there is someone that is breaking Discord TOS, immediately mute them for an unspecified amount of time, as well as a reason.
@@ -32,4 +33,3 @@ To warn, use Dyno's ?warn feature (as /warn doesn't work with Dyno right now), f
 To mute, use Dyno's ?mute feature (as again, there is no /mute with Dyno right now), followed by the username#tag (or @[theiruserid]), **OPTIONAL** an amount of time, then a reason. An example command would be: 
 
 > ?mute @ARTCvan#1234 1h Repeatedly broke rules.
-
