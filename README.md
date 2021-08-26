@@ -17,6 +17,10 @@ Here is a table with what you should do in scenarios involving tickets.
 | Someone reports a rule-breaker | Ask for reasoning/evidence, then follow steps below. |
 | Someone reports a broken/offline bot | Determine if the bot is important, then post in announcements (if admin). |
 | A feature of the server breaks | Post a message in the channel/announcements to say that feature is unavaliable. |
+| Someone reports a training mod | Notify an executive or higher & ask for evidence. Also mute if needed. |
+| Someone reports a mod/admin | Immediately ask them to switch into DMs |
+| Someone opens a joke ticket | Warn them that they are not using the feature correctly and warn via Dyno. | 
+| Other | Try to deal with it if possible, apply what's best in your opinion |
 
 ## How do you moderate?
 This question shouldn't really be asked as, well, you probably know what you should do. Regardless, here's what you should do in emergency cases.
