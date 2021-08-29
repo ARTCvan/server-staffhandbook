@@ -1,5 +1,5 @@
 # ARTCvan's Discord Server staff handbook
-Welcome to the staff handbook of ARTCvan's Discord Server. This handbook will tell you instructions on moderation, when to use moderating commands and what you should do in cases when members do not listen.
+Welcome to the staff handbook of ARTCvan's Discord Server. This handbook will tell you instructions on moderation, when to use moderating commands and what you should do in cases when members do not listen. Just as a side note, all staff roles can be revoked if you are breaking rules or similar. The warning system (found in staff-info) takes care of this (only for staff). Do not use any other Discord clients other then Discord's own client.
 
 ## Introduction to the staff team
 We have 2 people that have authority to remove staff permissions, ARTCvan (the owner) and xzvbnm, the Second in Charge, which takes over the owner if he isn't avaliable for certain days, or basically, the second owner. The owner basically has the authority to remove the Second in Charge, can remove/add staff, and owns the server. He makes the rules, is the one that decides if a bot should be added, etc.
@@ -73,6 +73,14 @@ If a rule-breaker is spotted, warn them in either the channel they are talking i
 If there is someone that is breaking Discord TOS, immediately mute them for an unspecified amount of time, as well as a reason and warn via Dyno.
 
 If someone is posting NSFW, by all means, mute immediently and ban with a reason.
+
+If someone is arguing with a staff member over a rule, warn the arguer with a reason.
+
+If someone is posting GIF spam/spamming/voice spamming, mute and warn with reasons.
+
+If someone is asking for a role in chat, then warn them with the reason.
+
+If someone has found a loophole in something, immediently mute them and patch the loophole ASAP.
 
 # How do you ban/warn/mute someone or find a User ID?
 To find a User's ID, enable Developer Options in the Discord client. Then right click their user (not their message/s) and Copy ID. The Copy ID user works better in cases like in #mod-commands, as it's basically copy-paste.
