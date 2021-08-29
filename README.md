@@ -103,6 +103,18 @@ To ban, use Dyno's ?ban feature (again, no  /ban for Dyno), followed by username
 > 
 > ?ban <@6921234567287397920> Broke rules 3 times.
 
+If for any reason, you need to lock a channel down, use ?lock, followed by #channel-name, **optional** an amount of time, then a reason. Example would be:
+
+> ?lock #test-channel 1h Too much spam in this channel
+
+And if you need to lock the entire server for certain reasons (raid or similar), use ?lockdown, **optional** an amount of time, then a reason. Example would be:
+
+> ?lockdown Raid was incomming, please refain from entering VC. 
+
+To end a lockdown, do ?lockdown end, **optional** a reason. Example would be
+
+> ?lockdown end Everything is now fine.
+
 Do note that these commands work everywhere on the server, and don't work on people above Moderator. You can not do this to a role either, and you should always give a reason to the action you done.
 
 
