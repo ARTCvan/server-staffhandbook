@@ -82,7 +82,7 @@ If someone is asking for a role in chat, then warn them with the reason.
 
 If someone has found a loophole in something, immediently mute them and patch the loophole ASAP.
 
-# How do you ban/warn/mute someone or find a User ID?
+## How do you ban/warn/mute someone or find a User ID?
 To find a User's ID, enable Developer Options in the Discord client. Then right click their user (not their message/s) and Copy ID. The Copy ID user works better in cases like in #mod-commands, as it's basically copy-paste.
 
 To warn, use Dyno's ?warn feature (as /warn doesn't work with Dyno right now), followed by the username#tag (or <@[userid]>) and then a reason. Example commands would be: 
