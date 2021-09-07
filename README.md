@@ -82,6 +82,8 @@ If someone is asking for a role in chat, then warn them with the reason.
 
 If someone has found a loophole in something without telling staff, immediently mute them and patch the loophole ASAP.
 
+If someone requests for an unmute because Automod muted them, ignore the request under any circumstances.
+
 ## How do you ban/warn/mute someone or find a User ID?
 To find a User's ID, enable Developer Options in the Discord client. Then right click their user (not their message/s) and Copy ID. The Copy ID user works better in cases like in #mod-commands, as it's basically copy-paste.
 
