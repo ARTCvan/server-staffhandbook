@@ -121,5 +121,5 @@ Do note that these commands work everywhere on the server, and don't work on peo
 
 # Special Formatting
 Discord uses a special type of Markdown, but there are more then just the basic ones.
-This [link](https://discord.com/developers/docs/reference#message-formatting-formats) will direct you to many other formatting methods, which also include the timeformatting.
+This [link](https://discord.com/developers/docs/reference#message-formatting-formats) will direct you to many other formatting methods, which also include the timeformatting. [This time converter](https://www.epochconverter.com/) allows you to convert normal time into UNIX time, which is required for the time formatting in Discord.
 
