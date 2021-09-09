@@ -119,4 +119,7 @@ To end a lockdown, do ?lockdown end, **optional** a reason. Example would be
 
 Do note that these commands work everywhere on the server, and don't work on people above Moderator. You can not do this to a role either, and you should always give a reason to the action you done.
 
+# Special Formatting
+Discord uses a special type of Markdown, but there are more then just the basic ones.
+This [link](https://discord.com/developers/docs/reference#message-formatting-formats) will direct you to many other formatting methods, which also include the timeformatting.
 
