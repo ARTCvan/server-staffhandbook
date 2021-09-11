@@ -87,19 +87,19 @@ If someone requests for an unmute because Automod muted them, ignore the request
 ## How do you ban/warn/mute someone or find a User ID?
 To find a User's ID, enable Developer Options in the Discord client. Then right click their user (not their message/s) and Copy ID. The Copy ID user works better in cases like in #mod-commands, as it's basically copy-paste.
 
-To warn, use Dyno's ?warn feature (as /warn doesn't work with Dyno right now), followed by the username#tag (or <@[userid]>) and then a reason. Example commands would be: 
+To warn, use Dyno's ?warn feature (as /warn doesn't work with Dyno right now), followed by the username#tag (or <@[userid]>) and then a reason. Make sure to take a screenshot of the offence as well. Example commands would be: 
 
 > ?warn @ARTCvan#1234 Broke rule 4.
 > 
 > ?warn <@692612345677397920> Broke rule 3.
 
-To mute, use Dyno's ?mute feature (as again, there is no /mute with Dyno right now), followed by the username#tag (or <@[theiruserid]>), **OPTIONAL** an amount of time, then a reason. Example commands would be: 
+To mute, use Dyno's ?mute feature (as again, there is no /mute with Dyno right now), followed by the username#tag (or <@[theiruserid]>), **OPTIONAL** an amount of time, then a reason. Make sure to take a screenshot of the offence as well. Example commands would be: 
 
 > ?mute @ARTCvan#1234 1h Repeatedly broke rules.
 > 
 > ?mute <@69212345687397920> 1h Did not listen to staff member twice.
 
-To ban, use Dyno's ?ban feature (again, no  /ban for Dyno), followed by username#tag (or <@[theuserid]>), and then a reason. Example commands would be:
+To ban, use Dyno's ?ban feature (again, no  /ban for Dyno), followed by username#tag (or <@[theuserid]>), and then a reason. Make sure to take a screenshot of the offence as well. Example commands would be:
 
 > ?ban @ARTCvan#1234 Sent NSFW content in the server.
 > 
